@@ -188,8 +188,8 @@ Key observations:
 ### 1. Clone and set up the environment
 
 ```bash
-git clone https://github.com/descellia/Home-Credit-Risk-Machine-Learning.git
-cd Home-Credit-Risk-Machine-Learning
+git clone https://github.com/descellia/Home-Credit-Risk-Analysis.git
+cd Home-Credit-Risk-Analysis
 
 python -m venv venv
 # Windows
