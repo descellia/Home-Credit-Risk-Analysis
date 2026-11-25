@@ -1,1 +1,31 @@
-venv
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Experiment artifacts
+checkpoint.pkl
+*.joblib
+
+# Data (download from Kaggle, see README)
+data/
+*.csv
+*.parquet
+*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+kaggle.json
