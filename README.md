@@ -1,6 +1,6 @@
 # Home Credit Default Risk Prediction (Indonesia)
 
-Binary classification of loan default risk on the **Home Credit Indonesia** dataset, built as the final project for **IF441 Machine Learning (Class B)** at Universitas Multimedia Nusantara.
+Binary classification of loan default risk on the **Home Credit Indonesia** dataset, built as the final project for **Machine Learning**.
 
 The project covers the full tabular ML workflow: multi-table merging, cleaning, encoding, correlation-driven feature extraction with PCA, filter and wrapper feature selection, class-imbalance handling, and a stratified cross-validation benchmark across several classifiers.
 
